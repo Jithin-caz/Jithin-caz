@@ -1,4 +1,7 @@
-## Hi there 👋, I am Jithin
+## Hi there 👋, I'm Jithin
+Full-stack developer building responsive web and mobile apps across iOS, Android, and desktop. Passionate about creating smooth, intuitive UIs and powerful backends.
+
+
 
 <!--
 **Jithin-caz/Jithin-caz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +22,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jithin-caz&show_icons=true&theme=radical)
 
+<!--
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jithin_caz)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
