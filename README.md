@@ -2,7 +2,7 @@
 
 #<a href="https://jithinreji.vercel.app/">My portfolio</a>
 
-AI Developer committed in building production grade agentic software prioritizing functionl and infrastructural requirements.
+AI Developer committed in building production grade agentic software prioritizing both functional and infrastructural requirements.
 Passionate about Agentic AI, web development and product designing.
 
 
