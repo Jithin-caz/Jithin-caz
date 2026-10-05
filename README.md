@@ -2,7 +2,8 @@
 
 #<a href="https://jithinreji.vercel.app/">My portfolio</a>
 
-Full-stack developer building responsive web and mobile apps across iOS, Android, and desktop. Passionate about creating smooth, intuitive UIs and powerful backends.
+AI Developer committed in building production grade agentic software prioritizing functionl and infrastructural requirements.
+Passionate about Agentic AI, web development and product designing.
 
 
 <!--
